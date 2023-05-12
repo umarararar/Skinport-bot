@@ -1,7 +1,7 @@
 import requests
 import csv
 
-api_key = 'G9jk4AyXca3zJvhA7FibR/wa88E9Atcp8mdqsdv0vBfwUdTLLDtwC0zkzg9AYuGAoEsc/Yq7b8+zrKekRgZHFA=='
+api_key = 'Your Api Key'
 headers = {
     'Authorization': f'Bearer {api_key}',
     'Content-Type': 'application/json',
